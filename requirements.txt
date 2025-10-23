@@ -1,0 +1,11 @@
+# Address Book - Requirements
+# Core Python libraries (built-in, no external dependencies required)
+
+# Optional: For enhanced functionality
+# rich>=13.0.0  # For better CLI output formatting
+# colorama>=0.4.0  # For colored terminal output
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # For unit testing
+# black>=23.0.0  # For code formatting
+# flake8>=6.0.0  # For code linting
